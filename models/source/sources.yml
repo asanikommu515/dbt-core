@@ -1,0 +1,21 @@
+version: 2
+sources:
+ - name: source
+   database: '{{ target.database }}'
+   schema: source
+   description: "This is source schema in dbt-db Database"
+   tables:
+     - name: date
+       description: "This is a Date table"
+     - name: customers
+       description: "This is a Customers table"
+     - name: products
+       description: "This is a Products table"
+     - name: stores
+       description: "This is a Stores table"
+     - name: sales
+       description: "This is a Sales table"
+     - name: returns
+       description: "This is a Returns table"
+     - name: src_items
+       description: "This contains list of items"

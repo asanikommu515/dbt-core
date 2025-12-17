@@ -1,0 +1,11 @@
+country_id,iso_alpha2,iso_alpha3,iso_numeric,country_name
+1,US,USA,840,United States
+2,CA,CAN,124,Canada
+3,MX,MEX,484,Mexico
+4,GB,GBR,826,United Kingdom
+5,FR,FRA,250,France
+6,DE,DEU,276,Germany
+7,JP,JPN,392,Japan
+8,IN,IND,356,India
+9,CN,CHN,156,China
+10,BR,BRA,076,Brazil

@@ -1,0 +1,1 @@
+select {{ multiply(5, 6.5634) }} as product;
